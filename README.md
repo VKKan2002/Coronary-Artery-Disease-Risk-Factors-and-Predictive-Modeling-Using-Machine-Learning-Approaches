@@ -1,5 +1,5 @@
-#🫀 Coronary Artery Disease Risk Prediction Using Machine Learning
-
+**🫀 Coronary Artery Disease Risk Prediction Using Machine Learning
+**
 📋 **Summary**
 
 This study explores the application of machine learning approaches to predict coronary artery disease (CAD), which accounts for nearly 40% of all cardiovascular disease deaths in the United States 🇺🇸. The research demonstrates how ensemble machine learning methods can effectively identify patients at risk for CAD using clinical and diagnostic features.
