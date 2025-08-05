@@ -1,4 +1,4 @@
-#**🫀 Coronary Artery Disease Risk Prediction Using Machine Learning**
+**🫀 Coronary Artery Disease Risk Prediction Using Machine Learning**
 
 
 📋 **Summary**
@@ -22,7 +22,7 @@ This study explores the application of machine learning approaches to predict co
 🎯 **High Sensitivity**: All models maintained strong recall (>0.89), crucial for medical screening applications
 
 
-🏥 C**linical Impact**
+🏥 **Clinical Impact**
 
 The study demonstrates that machine learning can effectively complement traditional cardiovascular risk assessment tools 💊. The identified predictive features correspond to well-established clinical indicators of myocardial ischemia, supporting the potential for real-world clinical implementation.
 
